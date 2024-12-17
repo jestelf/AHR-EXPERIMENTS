@@ -1,4 +1,3 @@
-Ладно, просто напиши изменения целиком, но изменения только по тз, произвольно из кода ничего не удалять, только добавлять.
 import os
 import asyncio
 import uuid  # Импортируем модуль uuid
@@ -22,7 +21,7 @@ logging.basicConfig(
 logger = logging.getLogger(__name__)
 
 # Замените на токен вашего бота
-TELEGRAM_TOKEN = '7547606520:AAEW4RuBI6-SATDm5eIBu-bf0LrTPF9ZA1k'  # ⚠️ Убедитесь, что токен не доступен публично
+TELEGRAM_TOKEN = ''  # ⚠️ Убедитесь, что токен не доступен публично
 
 # Рабочая директория
 WORKING_DIR = r'D:\prdja'
