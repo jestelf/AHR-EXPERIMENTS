@@ -1,0 +1,8 @@
+python-telegram-bot==20.3
+vosk==0.3.45
+pydub==0.25.1
+deepmultilingualpunctuation==1.0.1
+razdel==1.0.1
+torch==2.0.1
+TTS==0.10.0
+scipy==1.11.3

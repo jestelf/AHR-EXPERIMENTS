@@ -1,0 +1,11 @@
+2024-11-28 10:12:48,410 - processing - INFO - Обе модели Vosk загружены.
+2024-11-28 10:12:51,471 - tensorflow - WARNING - From C:\Users\jeste\AppData\Local\Programs\Python\Python311\Lib\site-packages\tf_keras\src\losses.py:2976: The name tf.losses.sparse_softmax_cross_entropy is deprecated. Please use tf.compat.v1.losses.sparse_softmax_cross_entropy instead.
+
+2024-11-28 10:12:53,168 - processing - INFO - PunctuationModel загружена.
+2024-11-28 10:13:09,634 - processing - INFO - Модель синтеза речи загружена.
+2024-11-28 10:19:59,991 - processing - INFO - Обе модели Vosk загружены.
+2024-11-28 10:20:02,225 - tensorflow - WARNING - From C:\Users\jeste\AppData\Local\Programs\Python\Python311\Lib\site-packages\tf_keras\src\losses.py:2976: The name tf.losses.sparse_softmax_cross_entropy is deprecated. Please use tf.compat.v1.losses.sparse_softmax_cross_entropy instead.
+
+2024-11-28 10:20:03,634 - processing - INFO - PunctuationModel загружена.
+2024-11-28 10:20:15,526 - processing - INFO - Модель синтеза речи загружена.
+2024-11-28 10:20:16,119 - utils.logger - INFO - Бот запущен и ожидает сообщений...
